@@ -58,7 +58,7 @@ export default function ContactPage() {
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Get in Touch with Zaza</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Whether you're a teacher with feedback, a school with questions, or a curious partner — we'd love to hear
+            Whether you're a teacher with feedback, a school with questions, or a curious partner - we'd love to hear
             from you.
           </p>
         </div>
